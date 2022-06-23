@@ -1,1 +1,2 @@
-
+local plr = game:GetService("Players").LocalPlayer
+plr:Kick("Not available anymore, join server. https://discord.gg/XUpbfR8gJg")
